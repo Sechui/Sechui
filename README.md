@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Sechui
-- 👀 I’m interested in Java and C#.
+- 👀 I’m interested in JavaScript and C#.
 - 🌱 I’m currently learning Swift
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
